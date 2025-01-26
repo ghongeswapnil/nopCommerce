@@ -1,0 +1,336 @@
+2025-01-18 20:45:40,270 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-18 20:45:40,871 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-18 20:45:40,872 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-18 20:45:46,006 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-18 20:46:09,261 - INFO - Test_001_Login - test_login - *************** Login test is passed **************
+2025-01-18 21:33:02,594 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-18 21:33:02,606 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-18 21:33:02,820 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-18 21:33:15,586 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-18 21:33:21,568 - INFO - Test_001_Login - test_login - *************** Login test is passed **************
+2025-01-18 21:36:39,185 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-18 21:36:39,219 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-18 21:36:39,243 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-18 21:36:48,247 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-18 21:37:02,194 - INFO - Test_001_Login - test_login - *************** Login test is passed **************
+2025-01-18 21:39:04,205 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-18 21:39:04,224 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-18 21:39:04,224 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-18 21:39:10,561 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-18 21:39:19,712 - INFO - Test_001_Login - test_login - *************** Login test is passed **************
+2025-01-18 21:40:17,565 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-18 21:40:17,697 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-18 21:40:17,697 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-18 21:40:23,672 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-18 21:40:28,370 - ERROR - Test_001_Login - test_login - **************** Login test is failed ***************
+2025-01-19 21:04:41,496 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 21:04:41,638 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 21:04:58,981 - INFO - Test_002_DDT_Login - test_login_ddt - **** Passed ****
+2025-01-19 21:06:00,177 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 21:06:00,178 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 21:06:16,568 - INFO - Test_002_DDT_Login - test_login_ddt - **** Passed ****
+2025-01-19 21:14:00,648 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 21:14:00,648 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 21:14:13,193 - INFO - Test_002_DDT_Login - test_login_ddt - ****** failed ******
+2025-01-19 21:14:22,659 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 21:14:22,659 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 21:14:33,931 - INFO - Test_002_DDT_Login - test_login_ddt - ****** failed ******
+2025-01-19 21:15:06,646 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 21:15:06,646 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 21:15:21,878 - INFO - Test_002_DDT_Login - test_login_ddt - ****** failed ******
+2025-01-19 21:16:48,948 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 21:16:48,948 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 21:18:05,601 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 21:18:05,601 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 21:18:22,598 - INFO - Test_002_DDT_Login - test_login_ddt - ****** failed ******
+2025-01-19 21:47:46,467 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 21:47:46,494 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 21:48:12,130 - INFO - Test_002_DDT_Login - test_login_ddt - **** Passed ****
+2025-01-19 21:52:49,753 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 21:52:49,772 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 21:53:09,492 - INFO - Test_002_DDT_Login - test_login_ddt - **** Passed ****
+2025-01-19 21:53:52,854 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 21:53:52,854 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 21:54:06,641 - INFO - Test_002_DDT_Login - test_login_ddt - **** Passed ****
+2025-01-19 21:54:37,539 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 21:54:37,539 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 21:54:54,449 - INFO - Test_002_DDT_Login - test_login_ddt - **** Passed ****
+2025-01-19 21:56:31,899 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-19 21:56:31,899 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-19 21:56:31,999 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-19 21:56:36,761 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-19 21:56:38,481 - ERROR - Test_001_Login - test_login - **************** Login test is failed ***************
+2025-01-19 22:04:22,314 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-19 22:04:22,314 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-19 22:04:22,315 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-19 22:04:26,376 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-19 22:04:36,745 - INFO - Test_001_Login - test_login - *************** Login test is passed **************
+2025-01-19 22:04:52,004 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 22:04:52,004 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 22:05:13,716 - INFO - Test_002_DDT_Login - test_login_ddt - **** Passed ****
+2025-01-19 22:05:30,788 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 22:05:30,789 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 22:05:43,204 - INFO - Test_002_DDT_Login - test_login_ddt - **** Passed ****
+2025-01-19 22:05:58,619 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 22:05:58,619 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 22:06:06,982 - INFO - Test_002_DDT_Login - test_login_ddt - ****** failed ******
+2025-01-19 22:12:16,111 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 22:12:16,112 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 22:12:25,973 - INFO - Test_002_DDT_Login - test_login_ddt - ****** failed ******
+2025-01-19 22:13:46,966 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 22:13:46,966 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 22:13:57,634 - INFO - Test_002_DDT_Login - test_login_ddt - ****** failed ******
+2025-01-19 22:14:13,694 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 22:14:13,694 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 22:14:37,080 - INFO - Test_002_DDT_Login - test_login_ddt - ****** failed ******
+2025-01-19 22:15:08,422 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-19 22:15:08,422 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-19 22:15:08,476 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-19 22:15:12,637 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-19 22:15:17,661 - INFO - Test_001_Login - test_login - *************** Login test is passed **************
+2025-01-19 22:15:36,983 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 22:15:36,983 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 22:16:02,731 - INFO - Test_002_DDT_Login - test_login_ddt - **** Passed ****
+2025-01-19 22:16:49,680 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-19 22:16:49,681 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-19 22:17:13,547 - INFO - Test_002_DDT_Login - test_login_ddt - ****** failed ******
+2025-01-20 21:22:38,291 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-20 21:22:38,416 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-20 21:23:53,240 - INFO - Test_002_DDT_Login - test_login_ddt - **** Passed ****
+2025-01-23 00:00:34,524 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-23 00:00:39,330 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-23 00:00:39,331 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
+2025-01-23 00:03:37,709 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-23 00:03:51,336 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-23 00:03:51,336 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
+2025-01-23 00:03:57,792 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-23 00:04:10,581 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-23 00:04:10,581 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
+2025-01-23 00:04:22,621 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-23 00:04:46,769 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-23 00:04:46,770 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
+2025-01-23 00:04:56,391 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-23 00:05:19,817 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-23 00:05:19,817 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
+2025-01-23 00:06:15,368 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-23 00:06:15,368 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-23 00:06:19,087 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-23 00:06:20,782 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-23 00:06:25,093 - ERROR - Test_001_Login - test_login - **************** Login test is failed ***************
+2025-01-23 00:07:36,077 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-23 00:07:36,078 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-23 00:07:38,558 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-23 00:07:40,292 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-23 00:07:44,542 - ERROR - Test_001_Login - test_login - **************** Login test is failed ***************
+2025-01-23 00:08:39,087 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-23 00:08:39,087 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-23 00:08:43,452 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-23 00:08:45,075 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-23 00:08:59,081 - ERROR - Test_001_Login - test_login - **************** Login test is failed ***************
+2025-01-23 00:09:25,301 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-23 00:09:25,655 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-23 00:09:28,684 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-23 00:09:30,436 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-23 00:09:53,580 - ERROR - Test_001_Login - test_login - **************** Login test is failed ***************
+2025-01-23 00:10:10,975 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-23 00:10:10,975 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-23 00:10:14,255 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-23 00:10:15,838 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-23 00:10:43,054 - ERROR - Test_001_Login - test_login - **************** Login test is failed ***************
+2025-01-23 00:10:55,602 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-23 00:10:55,602 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-23 00:10:58,663 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-23 00:11:00,553 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-23 00:11:25,761 - ERROR - Test_001_Login - test_login - **************** Login test is failed ***************
+2025-01-23 00:11:35,253 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-23 00:11:35,253 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-23 00:11:39,429 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-23 00:11:41,513 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-23 00:12:32,071 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-23 00:12:32,072 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-23 00:12:37,498 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-23 00:12:39,704 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-23 00:12:54,421 - ERROR - Test_001_Login - test_login - **************** Login test is failed ***************
+2025-01-23 00:13:07,664 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-23 00:13:07,664 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-23 00:13:11,601 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-23 00:13:13,495 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-23 00:13:37,861 - ERROR - Test_001_Login - test_login - **************** Login test is failed ***************
+2025-01-23 00:14:36,871 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-23 00:15:02,151 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-23 00:15:02,151 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
+2025-01-23 00:15:09,781 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-23 00:15:35,049 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-23 00:15:35,049 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
+2025-01-23 00:15:47,942 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-23 00:16:13,156 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-23 00:16:13,156 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
+2025-01-23 00:16:25,543 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-23 00:16:50,223 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-23 00:16:50,223 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
+2025-01-23 00:18:35,718 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-23 00:19:33,187 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-23 00:19:33,188 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
+2025-01-23 00:19:54,064 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-23 00:20:11,398 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-23 00:20:11,398 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
+2025-01-23 00:21:16,750 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-23 00:21:33,834 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-23 00:21:33,834 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
+2025-01-23 00:21:47,886 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-23 00:22:03,962 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-23 00:22:03,962 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
+2025-01-23 00:22:14,065 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-23 00:22:30,378 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-23 00:22:30,378 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
+2025-01-23 00:22:50,796 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-23 00:23:06,154 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-23 00:23:06,154 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
+2025-01-23 00:23:22,861 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-23 00:23:38,255 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-23 00:23:38,255 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
+2025-01-23 23:55:01,786 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-23 23:55:02,241 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-23 23:55:06,206 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-23 23:55:07,868 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-23 23:56:18,428 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-23 23:56:32,216 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-23 23:56:32,216 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
+2025-01-24 00:12:38,899 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ***************** SearchCustomerByName_005 **************
+2025-01-24 00:12:43,516 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ************ Login Successful ************
+2025-01-24 00:12:43,517 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ************* Starting Search Customer By Name ****************
+2025-01-24 00:14:12,317 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ***************** SearchCustomerByName_005 **************
+2025-01-24 00:14:29,619 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ************ Login Successful ************
+2025-01-24 00:14:29,619 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ************* Starting Search Customer By Name ****************
+2025-01-24 00:14:44,771 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ***************** SearchCustomerByName_005 **************
+2025-01-24 00:14:58,320 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ************ Login Successful ************
+2025-01-24 00:14:58,320 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ************* Starting Search Customer By Name ****************
+2025-01-24 00:15:20,795 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ***************** SearchCustomerByName_005 **************
+2025-01-24 00:16:23,712 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ************ Login Successful ************
+2025-01-24 00:16:23,712 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ************* Starting Search Customer By Name ****************
+2025-01-24 00:16:36,093 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ***************** SearchCustomerByName_005 **************
+2025-01-24 00:17:40,008 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ************ Login Successful ************
+2025-01-24 00:17:40,008 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ************* Starting Search Customer By Name ****************
+2025-01-24 00:25:24,505 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ***************** SearchCustomerByName_005 **************
+2025-01-24 00:26:28,796 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ************ Login Successful ************
+2025-01-24 00:26:28,796 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ************* Starting Search Customer By Name ****************
+2025-01-24 00:29:15,726 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ***************** SearchCustomerByName_005 **************
+2025-01-24 00:30:19,308 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ************ Login Successful ************
+2025-01-24 00:30:19,308 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ************* Starting Search Customer By Name ****************
+2025-01-24 00:47:47,267 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ***************** SearchCustomerByName_005 **************
+2025-01-24 00:48:29,080 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-24 00:48:29,080 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-24 00:48:29,797 - ERROR - Test_001_Login - test_homePageTitle - **************Home Page title test is failed **************
+2025-01-24 00:48:31,247 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-24 00:48:54,416 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-24 00:48:54,416 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-24 00:48:55,238 - ERROR - Test_001_Login - test_homePageTitle - **************Home Page title test is failed **************
+2025-01-24 00:48:56,704 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-24 00:49:09,556 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-24 00:49:09,558 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-24 00:49:12,555 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-24 00:49:14,151 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-24 00:50:27,935 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-24 00:50:27,935 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-24 00:50:30,917 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-24 00:50:32,511 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 12:14:18,150 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-26 12:16:35,479 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-26 12:16:35,479 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
+2025-01-26 12:16:37,417 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 12:23:23,387 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-26 12:23:23,393 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 12:23:48,684 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-26 12:23:48,684 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-26 12:23:48,689 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 12:23:48,692 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-26 12:23:48,692 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-26 12:23:48,697 - INFO - Test_SearchCustomerByEmail_004 - test_searchCustomerByEmail - ***************** SearchCustomerByEmail_004 **************
+2025-01-26 12:23:48,701 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ***************** SearchCustomerByName_005 **************
+2025-01-26 12:28:25,847 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-26 12:28:25,852 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 12:36:07,075 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-26 12:36:07,079 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-26 12:36:07,079 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-26 12:36:07,083 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 12:36:47,721 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-26 12:36:47,728 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-26 12:36:47,728 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-26 12:36:47,731 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 12:39:05,855 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-26 12:39:05,855 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-26 12:39:12,349 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-26 12:39:14,157 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 12:39:39,786 - ERROR - Test_001_Login - test_login - **************** Login test is failed ***************
+2025-01-26 12:46:39,960 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-26 12:46:39,961 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-26 12:46:55,416 - ERROR - Test_001_Login - test_homePageTitle - **************Home Page title test is failed **************
+2025-01-26 12:46:56,869 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 12:59:44,968 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-26 12:59:44,969 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-26 13:00:39,799 - ERROR - Test_001_Login - test_homePageTitle - **************Home Page title test is failed **************
+2025-01-26 13:00:41,705 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 13:05:58,134 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-26 13:05:58,134 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-26 13:06:13,660 - ERROR - Test_001_Login - test_homePageTitle - **************Home Page title test is failed **************
+2025-01-26 13:06:15,260 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 13:07:53,147 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-26 13:07:53,149 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-26 13:07:58,258 - ERROR - Test_001_Login - test_homePageTitle - **************Home Page title test is failed **************
+2025-01-26 13:07:59,808 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 13:08:19,056 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-26 13:08:19,056 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-26 13:08:26,295 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-26 13:08:28,316 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 13:08:49,304 - INFO - Test_001_Login - test_login - *************** Login test is passed **************
+2025-01-26 13:10:22,392 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-26 13:10:22,392 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-26 13:10:43,954 - ERROR - Test_001_Login - test_homePageTitle - **************Home Page title test is failed **************
+2025-01-26 13:10:45,738 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 13:12:56,272 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-26 13:12:56,272 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-26 13:13:01,461 - ERROR - Test_001_Login - test_homePageTitle - **************Home Page title test is failed **************
+2025-01-26 13:13:03,020 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 13:23:27,903 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-26 13:23:27,903 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-26 13:23:35,799 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-26 13:23:36,799 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 13:26:31,428 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-26 13:26:47,388 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-26 13:26:47,389 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-26 13:26:59,279 - ERROR - Test_001_Login - test_homePageTitle - **************Home Page title test is failed **************
+2025-01-26 13:27:00,958 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 13:27:11,680 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-26 13:27:11,681 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-26 13:27:19,348 - INFO - Test_SearchCustomerByEmail_004 - test_searchCustomerByEmail - ***************** SearchCustomerByEmail_004 **************
+2025-01-26 13:27:27,737 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ***************** SearchCustomerByName_005 **************
+2025-01-26 13:28:01,841 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-26 13:30:08,979 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-26 13:30:08,980 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-26 13:30:17,944 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-26 13:30:19,815 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 13:32:46,307 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-26 13:32:46,308 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-26 13:35:01,898 - INFO - Test_SearchCustomerByEmail_004 - test_searchCustomerByEmail - ***************** SearchCustomerByEmail_004 **************
+2025-01-26 13:37:20,978 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ***************** SearchCustomerByName_005 **************
+2025-01-26 13:37:52,750 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ************ Login Successful ************
+2025-01-26 13:37:52,750 - INFO - Test_SearchCustomerByName_005 - test_searchCustomerByName - ************* Starting Search Customer By Name ****************
+2025-01-26 13:42:13,262 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-26 13:42:13,263 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-26 13:42:20,034 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-26 13:42:21,880 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 13:44:12,544 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-26 13:44:12,545 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-26 13:44:23,478 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-26 13:44:25,196 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 14:03:35,450 - INFO - Test_001_Login - test_homePageTitle - **************** Test_001_Login ****************
+2025-01-26 14:03:35,458 - INFO - Test_001_Login - test_homePageTitle - **************** Verifying Home Page Title *******************
+2025-01-26 14:03:42,537 - INFO - Test_001_Login - test_homePageTitle - *************** Home Page title test is passed *******************
+2025-01-26 14:03:46,960 - INFO - Test_001_Login - test_login - *************** Verifying Login Test ****************
+2025-01-26 14:06:02,353 - INFO - Test_001_Login - test_login - *************** Login test is passed **************
+2025-01-26 14:06:45,694 - INFO - Test_002_DDT_Login - test_login_ddt - ******************* Test_002_DDT_Login ***************
+2025-01-26 14:06:45,694 - INFO - Test_002_DDT_Login - test_login_ddt - ***************** Verifying Login DDT test ****************
+2025-01-26 14:10:11,316 - INFO - Test_002_DDT_Login - test_login_ddt - **** Passed ****
+2025-01-26 14:10:54,101 - INFO - Test_003_AddCustomer - test_addCustomer - ***************** Test_003_AddCustomer ***************
+2025-01-26 14:13:02,937 - INFO - Test_003_AddCustomer - test_addCustomer - **************** Login Successful ***************
+2025-01-26 14:13:02,937 - INFO - Test_003_AddCustomer - test_addCustomer - *************** Starting Add Customer Test ***********
